@@ -1,11 +1,11 @@
 /* ============================================================
    CONFIG  — football-data.org
    ============================================================ */
-const FD_TOKEN  = '545405b3beef4de8a144aae319371d46';
+const FD_TOKEN  = 'Api key';
 const FD_BASE   = 'https://api.football-data.org/v4';
 const FD_COMPS  = 'PL,PD,BL1,SA,FL1,CL,WC,DED,ELC,PPL';
 const LIVE_INTERVAL = 60_000;
-const YT_KEY    = 'AIzaSyBaZGARBx5vDv0TlcEux1fOgFFVbNN5DMc'; // ← paste your key
+const YT_KEY    = 'youtubeApikey'; // ← paste your key
 
 /* ============================================================
    STATIC TEAM DATA
